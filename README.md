@@ -1,1 +1,3 @@
-# hello-world
+# Nihanth-Reddy
+Engineering Student
+Programming Learner
